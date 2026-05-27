@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.0/WIRM_1.0.0.0.zip",
-  "checksum": "E31E4642D640F1FF8CDABE743D6ECA169EC675EC34D825A085485806663C7729",
-  "releaseDate": "2026-05-26",
+  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.1/WIRM_1.0.0.1.zip",
+  "checksum": "BAFE0DF03B67030F87C1624FFFB0703AA4707557CF0D50352BCBE6E0FF3A3A7A",
+  "releaseDate": "2026-05-27",
   "notes": [
-    "Primera versión estable"
+    "Users: now can create users ano role"
   ]
 }
