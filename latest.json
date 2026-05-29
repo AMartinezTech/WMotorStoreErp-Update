@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.1",
+  "version": "1.0.0.2",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.1/WIRM_1.0.0.1.zip",
-  "checksum": "20B859CF5A7A6C87F17E8435AB39CA05A19514F50C5143079BE5BDB11455B5EC",
+  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.2/WIRM_1.0.0.2.zip",
+  "checksum": "3F430B4844F3F2E28BF302ED9D83AEF02862016848E676674B73F69A07C05C9F",
   "releaseDate": "2026-05-29",
   "notes": [
-    "Check version update fix"
+    "Feat: fix load warehouse type"
   ]
 }
