@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.3",
+  "version": "1.0.0.4",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.3/WIRM_1.0.0.3.zip",
-  "checksum": "F22777DE2669682651610EEBDDFD1698EACD2ED489378935314FEEF5DAF5A66A",
-  "releaseDate": "2026-06-06",
+  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.4/WIRM_1.0.0.4.zip",
+  "checksum": "A808C18D3F9E70A8544F9D05699B834706E5DF9E87CF94C70A5CEC2E7492B944",
+  "releaseDate": "2026-06-13",
   "notes": [
-    "Feat: Integración de Crear Inventario de vehículo en el modulo de inventario"
+    "Actualización de la opción de conduce en el módulo de inventario"
   ]
 }
