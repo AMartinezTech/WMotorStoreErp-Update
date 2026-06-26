@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.4",
+  "version": "1.0.0.5",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.4/WIRM_1.0.0.4.zip",
-  "checksum": "A808C18D3F9E70A8544F9D05699B834706E5DF9E87CF94C70A5CEC2E7492B944",
-  "releaseDate": "2026-06-13",
+  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.5/WIRM_1.0.0.5.zip",
+  "checksum": "F97BA5C876AD9BBA285C146915041308117734A1B7CAA8179B9DFE93FF2E344A",
+  "releaseDate": "2026-06-26",
   "notes": [
-    "Actualización de la opción de conduce en el módulo de inventario"
+    "Actualización: correción de mensaje de error en UI ScanUnitInventory"
   ]
 }
