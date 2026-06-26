@@ -2,7 +2,7 @@
   "version": "1.0.0.6",
   "mandatory": false,
   "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/v1.0.0.6/WIRM_1.0.0.6.zip",
-  "checksum": "F97BA5C876AD9BBA285C146915041308117734A1B7CAA8179B9DFE93FF2E344A",
+  "checksum": "B909C0D3B0F6F17283EAD713326A91FD297B9F7800FA8208B1B3280653354993",
   "releaseDate": "2026-06-26",
   "notes": [
     "Actualización: correción al deserializar el resultado del escaneo"
