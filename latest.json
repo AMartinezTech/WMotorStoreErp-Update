@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.7",
+  "version": "1.0.0.8",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/V1.0.0.7/WIRM_1.0.0.7.zip",
-  "checksum": "D04145E7292E45075B86DF11248163B2244B1570D45AD002DFDB72A2B809969A",
+  "url": "https://github.com/AMartinezTech/WMotorStoreErp-Update/releases/download/V1.0.0.8/WIRM_1.0.0.8.zip",
+  "checksum": "95D1B6B7270F51935A7E87B8349407CE539AEB608C5F5025A3E9A78F91955FA2",
   "releaseDate": "2026-11-10",
   "notes": [
-    "Repost form"
+    "Fix main form call to conduce frm"
   ]
 }
